@@ -1,0 +1,26 @@
+testdb=# CREATE TABLE users (
+
+testdb(# id INT PRIMARY KEY, 
+
+testdb(# username VARCHAR(255) NOT NULL,
+
+testdb(# password VARCHAR(255) NOT NULL,
+
+testdb(# role VARCHAR(255) NOT NULL
+
+testdb(# );
+
+CREATE TABLE
+
+testdb=# select *from users;
+
+testdb=# insert into users values(1, 'admin', 'password', 'admin");
+
+INSERT 0 1
+
+testdb#= select *from users; 
+
+testdb=# insert into users values(2, 'muskan', 'password', 'user");
+
+testdb#= select *from users where username = 'admin';
+
