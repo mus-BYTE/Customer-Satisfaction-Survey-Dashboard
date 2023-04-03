@@ -28,6 +28,10 @@ Stage-3: Generate Dynamic Dashboard:
 
 2. The dashboard should have the capability to select projects/products at runtime to display the results.
 
+## Dashboard
+
+![Picture1](https://user-images.githubusercontent.com/113541541/229568005-b1305451-ffd8-4d6a-acc4-b02fd347a726.jpg)
+
 ## Project Outcome
 
 1. To understand & develop dynamic reports and dashboards using Java Centric technologies. Understand project management methodologies and feedback analysis.
